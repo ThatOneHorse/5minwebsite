@@ -14,10 +14,13 @@ body {
 
 #box3 {
     background-color: green;
+    clear: both;
+    float: left;
 }
 
 #box4 {
     background-color: yellow;
+    float: left;
 }
 
 .box {
