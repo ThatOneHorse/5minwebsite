@@ -1,5 +1,11 @@
 body {
-    background-color: papayawhip;
+}
+
+#wrapper{
+    width: 960px;
+    border: solid black;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #box1 {
@@ -28,4 +34,35 @@ body {
     width: 36px;
     border: black 1px solid;
     padding: 7px;
+}
+
+#menu{
+    background-color: antiquewhite;
+    height: 25px;
+    line-height: 25px;
+}
+
+#menu ul {
+    margin: 0;
+}
+
+#menu li {
+    display: inline;
+}
+
+#content {
+    width: 593px;
+    background-color: forestgreen;
+    float: left;
+}
+
+#sidebar{
+    background-color: chocolate;
+    width: 366px;
+    float: left;
+}
+
+#footer{
+    background-color: bisque;
+    clear: both;
 }
