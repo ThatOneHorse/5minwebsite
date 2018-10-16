@@ -9,7 +9,7 @@ body {
 
 #box2 {
     background-color: red;
-    clear: both;
+    float: left;
 }
 
 #box3 {
