@@ -21,4 +21,5 @@ body {
 .box {
     height: 25px;
     width: 25px;
+    border: black 1px solid;
 }
