@@ -19,10 +19,9 @@ body {
 }
 
 .box {
-    height: 50px;
+    height: 36px;
     width: 36px;
     border: black 1px solid;
     margin-top: 25px;
-    padding-left: 7px;
-    padding-right: 7px;
+    padding: 7px;
 }
