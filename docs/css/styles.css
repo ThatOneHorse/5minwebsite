@@ -1,4 +1,5 @@
 body {
+    font-family: Helvetica, "HelveticaNeue", SansSerif;
 }
 
 #wrapper{
@@ -54,6 +55,9 @@ body {
     width: 593px;
     background-color: forestgreen;
     float: left;
+    padding-left: 24px;
+    padding-right: 24px;
+    line-height: 27px;
 }
 
 #sidebar{
